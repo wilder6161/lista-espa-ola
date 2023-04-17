@@ -1,5 +1,4 @@
-# lista-espa-ola
-lista española iptv.m3u
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="SPAIN SPORT FHD",ES: DAZN LALIGA
 http://mokino.top:8080/live/361679779421334077/5281679779421334/25125.ts
